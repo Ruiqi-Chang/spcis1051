@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "654597136236",
+    "project_id": "easytodos-f008a",
+    "storage_bucket": "easytodos-f008a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654597136236:android:291db7817c24d5e0409d49",
+        "android_client_info": {
+          "package_name": "com.easytodos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654597136236-k5d2lqptssd4b2j9st4vnikm228al8uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bY5ImWfqeeylrwR2sfyDaAp4TyBlkUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654597136236-k5d2lqptssd4b2j9st4vnikm228al8uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654597136236:android:032babca7dd28389409d49",
+        "android_client_info": {
+          "package_name": "com.trashtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654597136236-k5d2lqptssd4b2j9st4vnikm228al8uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bY5ImWfqeeylrwR2sfyDaAp4TyBlkUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654597136236-k5d2lqptssd4b2j9st4vnikm228al8uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
