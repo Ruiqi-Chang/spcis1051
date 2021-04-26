@@ -6,4 +6,4 @@ TrashTalk is a mobile application based on React Native framework which is also 
 
 
 Youtube link: https://www.youtube.com/watch?v=p2GRrx2hTMw
-Codes: I upload the codes in the master branch rather then the main branch
+Codes: I uploaded the codes in the master branch rather than the main branch
